@@ -16,7 +16,7 @@
 
 - 📄 Want to know about my experiences? Let's get on a chat!
 
-- ⚡ Fun fact **There's nothing funny**
+- ⚡ Fun fact: **I Can Defend You In The Court Of Tech**
 
 
 <h3 align="left">Featured Projects</h3>
