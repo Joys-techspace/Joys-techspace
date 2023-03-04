@@ -4,8 +4,8 @@
 
 <p align="center"> <a href=" https://www.linkedin.com/in/joythetechsis"><img src="https://img.shields.io/badge/-Connect With Me-blue?logo=linkedin&style=for-the-badge" alt="Joy_Ibok" /></a> </p>
 <p align="center"> <a href="https://twitter.com/joymanjii" target="blank"><img src="https://img.shields.io/badge/-Follow Me On Twitter!-white?logo=twitter&style=for-the-badge" alt="Joy_Ibok" /></a> </p>
-<p align="center"> <a href="https://instagram.com/joythetechsis"><img src="https://img.shields.io/badge/-Follow Me On Instagram-white?logo=instagram&style=for-the-badge" alt="Daniel Ifediba" /></a> </p>
-
+<p align="center"> <a href="https://instagram.com/joythetechsis"><img src="https://img.shields.io/badge/-Follow Me On Instagram-white?logo=instagram&style=for-the-badge" alt="Joy Ibok" /></a> </p>
+<p align="center"> <a href="https://joys-techspace.github.io/portfolio_webpage/#"><img src="https://img.shields.io/badge/-View My Porfolio Website-white?logo=earth&style=for-the-badge" alt="Joy Ibok" /></a> </p>
 
 
 - 🔭 I’m currently working on **Anything related to Data**
